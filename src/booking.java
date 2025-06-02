@@ -55,6 +55,7 @@ public class booking extends javax.swing.JFrame implements MouseListener{
     }
     
     
+    
     public void Bill()
     {
         String customer=txtcust.getText();
